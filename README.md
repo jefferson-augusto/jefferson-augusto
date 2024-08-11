@@ -18,5 +18,5 @@
  
 <div> 
   
-   <a href="https://www.linkedin.com/in/jefferson-oliveira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%6400621a3?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/jefferson-oliveira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%6400621a3/?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
